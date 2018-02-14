@@ -1,0 +1,54 @@
+{
+  "app": {
+    "name": "Retromeet",
+    "footer": "{copyright} - developed by {author} using {library}"
+  },
+  "retro": {
+    "id": "Retrospective ID",
+    "add-card-label": "What's on your mind?"
+  },
+  "set-name": {
+    "header": "Set your name",
+    "name": "Name",
+    "set-name": "Set name"
+  },
+  "homepage": {
+    "message": "Participate in online scrum retrospective meetings.{nl}It's quick and easy.",
+    "start-retro": "Start retro",
+    "join": "Join"
+  },
+  "columns": {
+    "header": "Columns",
+    "columns": "Columns",
+    "new-column": "New column",
+    "column-name": "Name",
+    "no-columns": "Lets add some columns now!",
+    "icon": "Icon",
+    "column-name-required": "Column name is required"
+  },
+  "start-retro": {
+    "header": "Start a retro",
+    "description": "First, lets name the retrospective.",
+    "name": "Name",
+    "name-required": "Retrospective name is required"
+  },
+  "join-retro": {
+    "header": "Join retro",
+    "description": "Ask someone participating in the retro to send you the retro link. If you have the identifier of retro, paste it below to join!",
+    "enter-identifier": "Enter 16-character retrospective identifier",
+    "join": "Join"
+  },
+  "share": {
+    "header": "Share"
+  },
+  "navigation": {
+    "copy": "Copy",
+    "cancel": "Cancel",
+    "next": "Next",
+    "back": "Back",
+    "done": "Done"
+  },
+  "about": {
+    "description": "OCRA framework was created in the result of long chain of biased opinions by Mateusz Grzesiukiewicz. It is meant to serve as a boilerplate and provide possibility of rapid development of production quality apps. Feel free to adjust tech stack to your needs. The libraries can be easily replaced and the framework is meant to be always compatible with updates & upgrades from Create React App team."
+  }
+}
